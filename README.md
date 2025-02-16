@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @NinaBydantseva
+👋 Hi, I’m @NinaBydantseva
+### :woman_technologist: About me :
 - 👀 I'm interested in **analysis, finding solutions, and writing code**
 - 💞️ I’m looking to collaborate on something that pumping up my skills
-- ---
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
+### :hammer_and_wrench: Skills :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="75"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="50"/>      
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50"/>    
@@ -21,5 +18,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50"/>  
 </div>
 
-- ---
-- 📫 How to reach me https://t.me/@NYbydantseva
+### :black_nib: Contact me:
+https://t.me/@NYbydantseva
