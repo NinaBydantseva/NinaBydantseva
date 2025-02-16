@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NinaBydantseva
+- 👀 I'm interested in analysis, finding solutions, and writing code
+- 💞️ I’m looking to collaborate on something that pumping up my skills
+- 📫 How to reach me https://t.me/@NYbydantseva
