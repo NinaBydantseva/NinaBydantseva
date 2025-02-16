@@ -1,6 +1,6 @@
 👋 Hi, I’m @NinaBydantseva
 ### :woman_technologist: About me :
-- 👀 I'm interested in **analysis, finding solutions, and writing code**
+- 👀 I'm interested in analysis, finding solutions, and writing code
 - 💞️ I’m looking to collaborate on something that pumping up my skills
 ### :hammer_and_wrench: Skills :
 <div>
