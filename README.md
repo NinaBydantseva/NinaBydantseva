@@ -20,5 +20,5 @@
 
 ### :black_nib: Contact me:
 https://t.me/@NYbydantseva
-### :black_nib: Envelope:
+### 📩: E-mail:
 bny_78@mail.ru
